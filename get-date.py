@@ -1,4 +1,4 @@
-mport datetime
+import datetime
 now = datetime.datetime.now()
 print "-" * 25
 print now
